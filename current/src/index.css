@@ -1,0 +1,18 @@
+body{
+  background: rgb(79, 80, 79);
+  color: rgb(0, 0, 0);
+}
+.card{
+  background-color: black;
+  color:white;
+  border:5px solid white;
+  width:600px;
+  height:450px;
+  border-radius: 30px;
+  box-shadow: 10px 10px 25px 3px rgb(45, 55, 57);
+  margin-left: 100px;
+  
+}
+.card-img-top{
+  border-radius: 20px;
+}
